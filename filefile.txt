@@ -1,3 +1,4 @@
 wowwow이것이 바로 git..?!!?!
 2번 commit
-3번 commit
+3번 commitgit push origin main
+아아아ㅏ아앙아ㅏ아
