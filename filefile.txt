@@ -3,3 +3,4 @@ wowwow이것이 바로 git..?!!?!
 3번 commitgit push origin main
 아아아ㅏ아앙아ㅏ아
 이제 one으로 바뀐다~~~???
+와 이제 풀리퀘스트만 알면 되겠는걸?
